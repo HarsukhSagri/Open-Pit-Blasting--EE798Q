@@ -1,6 +1,10 @@
 ## Code Readme
 This README file provides an overview and explanation of the code provided. The code performs various data analysis and visualization tasks on a dataset containing pollution level data.
 
+## Files 
+- Assign1_Final.ipynb : Contains all the code.
+- Assign1_HS_210428.pdf : Contains snippets of code with explanation.
+- 
 ## Libraries Used
 - numpy
 - pandas
